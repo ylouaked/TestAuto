@@ -79,3 +79,4 @@ test.describe('Tests Sign-Up et Login', () => {
   console.log('Connexion réussie.');
   });
 });
+
